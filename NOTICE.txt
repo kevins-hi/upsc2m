@@ -1,0 +1,7 @@
+NOTICE
+
+The UPSC2M dataset is proprietary and owned by SigIQ. This repository includes a sample for illustrative use only. Redistribution or commercial use of the dataset (sample or full) is not permitted without explicit permission.
+
+To obtain access to the full dataset, please contact kevin@sigiq.ai.
+
+The accompanying source code in this repository is licensed under the MIT License.

@@ -1,0 +1,1 @@
+Rate the ambiguity of the question on a scale from 1 to 5. A score of 1 means the question is completely unambiguous and clearly worded. A score of 5 means the question is highly ambiguous, misleading, or confusing.

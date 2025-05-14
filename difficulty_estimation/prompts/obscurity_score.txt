@@ -1,0 +1,6 @@
+List the minimal set of distinct external knowledge facts required to correctly answer this question. Only include information that is not stated in the question and would need to come from a human’s prior knowledge or external sources. Do not include logical inferences or any information explicitly given in the question.
+
+For each fact, provide an obscurity rating (1, 2, or 3), where:
+- 1 is Common Knowledge: Widely known by most adults without needing formal education or niche expertise.
+- 2 is General Knowledge: Known by many educated adults or high school graduates, but not universally obvious.
+- 3 is Specialized Knowledge: Requires domain-specific education, familiarity with a particular field, or uncommon historical/cultural awareness.

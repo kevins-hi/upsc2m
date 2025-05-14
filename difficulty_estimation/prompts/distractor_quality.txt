@@ -1,0 +1,4 @@
+For the given question, rate the quality of each distractor option (the incorrect answers) on a scale from 1 to 5, where:
+1 = Very poor (clearly incorrect or irrelevant)
+3 = Moderate (somewhat plausible, but not very challenging)
+5 = Excellent (highly plausible and likely to mislead someone who doesn’t fully understand the concept)
